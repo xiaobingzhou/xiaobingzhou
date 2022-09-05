@@ -1,0 +1,129 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经历",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "自我介绍"
+    },
+    "avatar": {
+        "hidden": false
+    },
+    "profile": {
+        "name": "周小兵",
+        "email": "279414377@qq.com",
+        "mobile": "15079155207",
+        "github": "https://github.com/xiaobingzhou",
+        "csdn": "https://blog.csdn.net/blog_zxb",
+        "workExpYear": "4年",
+        "workPlace": "广东深圳",
+        "positionTitle": "Java工程师"
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2014.09.01",
+                "2018.06.30"
+            ],
+            "school": "江西理工大学",
+            "major": "软件工程",
+            "academic_degree": "本科"
+        }
+    ],
+    "awardList": [
+        {
+            "award_info": "获得SKG-2021年明日之星",
+            "award_time": "2021"
+        }
+    ],
+    "workExpList": [
+        {
+            "company_name": "未来穿戴健康科技股份有限公司",
+            "department_name": "互联网技术部",
+            "work_time": [
+                "2020.10",
+                "2022.04"
+            ],
+            "work_desc": "1. 担任SKG健康APP后端开发主力\r\n2. 负责SKG健康APP版本迭代需求开发\r\n3. 负责公司数据中台的搭建与开发\r\n4. 积极解决售后部门的问题反馈"
+        },
+        {
+            "company_name": "深圳施泰信息技术有限公司",
+            "department_name": "开发部",
+            "work_time": [
+                "2017.11",
+                "2020.10"
+            ],
+            "work_desc": "1. 负责平台软件架构设计和功能实现，服务器部署维护\r\n2. 负责平台和智能锁 NB设备端通信协议的设计和开发\r\n3. 推动和负责平台软件架构从 SSM到 SpringBoot的迁移，降低服务器 50%的资源占用\r\n4. 对反馈的问题能够快速的响应，定位和解决，得到的同事和领导的认可和好评"
+        }
+    ],
+    "skillList": [
+        {
+            "skill_name": "编码习惯",
+            "skill_desc": "熟悉 Java语言开发，有良好的编码习惯",
+            "skill_level": 90
+        },
+        {
+            "skill_name": "数据库",
+            "skill_desc": "熟练使用 MySQL关系型数据库和 Redis非关系型数据库",
+            "skill_level": 85
+        },
+        {
+            "skill_name": "开发工具",
+            "skill_desc": "熟练使用 Eclipse、IDEA、Git、SVN、Maven等项目开发管理构建工具",
+            "skill_level": 90
+        },
+        {
+            "skill_name": "设计模式",
+            "skill_desc": "熟练掌握常用的设计模式和设计原理",
+            "skill_level": 90
+        },
+        {
+            "skill_name": "框架",
+            "skill_desc": "熟练使用 SpringBoot、SpringMVC、Spring、Mybatis、Shiro框架，阅读过部分底层代码",
+            "skill_level": 80
+        },
+        {
+            "skill_name": "linux",
+            "skill_desc": "掌握 Linux操作系统常规操作",
+            "skill_level": 80
+        },
+        {
+            "skill_name": "微服务",
+            "skill_desc": "熟悉微服务架构 SpringCloud以及Docker容器部署",
+            "skill_level": 80
+        }
+    ],
+    "projectList": [
+        {
+            "project_name": "SKG健康APP",
+            "project_role": "Java开发主力",
+            "project_time": "2020.10 - 2022.04",
+            "project_desc": "SKG健康APP是SKG集团旗下产品, 后台采用SpringCloud微服务架构, 采用SpringCloudAlibaba的nacos做服务注册发现和配置中心, 使用Oauth2授权框架进行安全认证并且使用JWT发放令牌, 使用MybatisPlus简化SQL编写, 使用kinfe4j生成接口文档",
+            "project_content": "\n1. 项目从SpringBoot重构为SpringCloud服务 \n2. 负责开发亲友健康、设备管理、健康记录、健康计划、健康社区等模块 \n3. 目前仍在迭代中，帮助用户管理个人健康"
+        },
+        {
+            "project_name": "数据中台",
+            "project_role": "Java开发",
+            "project_time": "2021.11 - 2022.04",
+            "project_desc": "数据中台是集数据管理和统计分析为一体的综合后台管理系统, 基于开源项目JEECG进行的二次开发, 为运营人员提供了多纬度的统计分析页面, 包括用户分析、留存分析、用户设备使用、终端分析等功能; 同时还有APP的业务配置功能",
+            "project_content": "\n1. 协助数据中台基础框架功能的搭建和开发\n2. 负责开发社区的统计分析和业务配置功能"
+        },
+        {
+            "project_name": "SDMP平台",
+            "project_role": "Java开发",
+            "project_time": "2017.11 - 2020.10",
+            "project_desc": "SDMP 安全设备管理平台是一个集成了 NB-IOT、蓝牙、指纹、IC 卡等多种开锁方式的智能锁平台",
+            "project_content": "\n1. 负责软件平台搭建，框架整合，代码优化\r\n2. 负责设备上报数据解析和命令下发功能\r\n 3.负责平台部署维护管理\r\n4. 负责前端 vue 项目搭建和配置\r\n5. 负责部分前端页面和后端功能实现"
+        }
+    ],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": "1. 对工作认真负责，积极主动，有较强的责任心，有较强的心理素质和抗压能力\r\n2. 能够积极主动和同事领导沟通来解决项目中遇到的问题\r\n3. 喜欢钻研技术，乐于和同事分享学到的知识和经验"
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
