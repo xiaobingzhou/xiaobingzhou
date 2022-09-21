@@ -93,7 +93,7 @@
                 "2022.04",
                 "2022.09"
             ],
-            "work_desc": "1. 使用Netty搭建Socket游戏服务器，并使用自定义protobuf协议通信\r\n2. 使用SpringBoot、Redis、Mysql等技术开发官网后台"
+            "work_desc": "1. 使用Netty搭建Socket游戏服务器，并使用自定义protobuf协议通信\r\n2. 使用SpringBoot、Redis、Mysql等技术开发管理后台"
         },
         {
             "company_name": "未来穿戴健康科技股份有限公司",
