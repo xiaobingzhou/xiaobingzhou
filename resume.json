@@ -93,7 +93,7 @@
                 "2022.04",
                 "2022.09"
             ],
-            "work_desc": "1. 使用Netty搭建Socket游戏服务器，并使用自定义protobuf协议通信\r\n3. 使用SpringBoot、Redis、Mysql等技术开发官网后台"
+            "work_desc": "1. 使用Netty搭建Socket游戏服务器，并使用自定义protobuf协议通信\r\n2. 使用SpringBoot、Redis、Mysql等技术开发官网后台"
         },
         {
             "company_name": "未来穿戴健康科技股份有限公司",
@@ -120,7 +120,7 @@
             "project_role": "Java开发",
             "project_time": "2022.04 - 2022.09",
             "project_desc": "daolympicrush是一款3D多人竞速跑酷竞速游戏，后台采用Java开发，使用Netty作为网络框架，使用自定义protobuf协议，使用Redis作为缓存减轻MySQL数据库压力，使用RabbitMQ实现各个模块异步通信同时减低模块之间的耦合度",
-            "project_content": "\n1. 搭建基于Netty的Socket游戏服务器，通过自定义协议以及protobuf编码高效传输数据 \n2. 负责服务器的部署和维护，通过jenkins进行自动部署"
+            "project_content": "\n1. 搭建基于Netty的Socket游戏服务器，通过自定义protobuf协议高效传输数据 \n2. 负责服务器的部署和维护，通过jenkins进行自动部署"
         },
         {
             "project_name": "SKG健康APP",
@@ -141,7 +141,7 @@
             "project_role": "Java开发",
             "project_time": "2017.11 - 2020.10",
             "project_desc": "SDMP 安全设备管理平台是一个集成了 NB-IOT、蓝牙、指纹、IC 卡等多种开锁方式的智能锁平台",
-            "project_content": "\n1. 负责软件平台搭建，框架整合，代码优化\r\n2. 负责设备上报数据解析和命令下发功能\r\n 3.负责平台部署维护管理\r\n4. 负责前端 vue 项目搭建和配置\r\n5. 负责部分前端页面和后端功能实现"
+            "project_content": "\n1. 负责软件平台搭建，框架整合，代码优化\r\n2. 负责设备上报数据解析和命令下发功能\r\n3. 负责平台部署维护管理\r\n4. 负责前端 vue 项目搭建和配置\r\n5. 负责部分前端页面和后端功能实现"
         }
     ],
     "workList": [],
